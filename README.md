@@ -6,6 +6,6 @@
 
 #Step3 : Run the command "gradlew setupdecompworkspace" and then run the command "build gradlew"
 
-#Goto /buid/libs
+#Goto /build/libs
 
 #Enjoy
